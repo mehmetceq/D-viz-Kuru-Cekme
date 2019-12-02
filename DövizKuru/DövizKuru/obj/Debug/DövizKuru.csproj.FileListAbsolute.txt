@@ -1,0 +1,11 @@
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\bin\Debug\DövizKuru.exe.config
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\bin\Debug\DövizKuru.exe
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\bin\Debug\DövizKuru.pdb
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\obj\Debug\DövizKuru.csprojResolveAssemblyReference.cache
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\obj\Debug\DövizKuru.Form1.resources
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\obj\Debug\DövizKuru.Properties.Resources.resources
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\obj\Debug\DövizKuru.csproj.GenerateResource.Cache
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\obj\Debug\DövizKuru.csproj.CoreCompileInputs.cache
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\obj\Debug\DövizKuru.exe
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\obj\Debug\DövizKuru.pdb
+C:\Users\Yazilim2\Desktop\DövizKuru\DövizKuru\obj\Debug\DövizKuru.Form2.resources
